@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="fondo">#F2DB94</color>
+    <color name="titulo_princ">#102540</color>
+    <color name="purple_700">#F299A9</color>
+    <color name="teal_200">#5A6B8C</color>
+    <color name="generarilida2">#959BBF</color>
+    <color name="black">#FF000000</color>
+    <color name="white">#FFFFFFFF</color>
+</resources>

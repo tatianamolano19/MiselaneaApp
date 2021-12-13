@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+      xmlns:app="http://schemas.android.com/apk/res-auto">
+    <item
+        android:id="@+id/action_more"
+        android:icon="@drawable/icon_menu"
+        android:title=""
+        app:showAsAction="always">
+        <menu>
+            <item
+                android:id="@+id/servicios"
+                android:title="Servicios"
+                android:icon="@mipmap/icono_servicio"
+                app:showAsAction="ifRoom"/>
+            <item
+                android:id="@+id/productos"
+                android:title="Productos"
+                android:icon="@mipmap/icono_producto"
+                app:showAsAction="ifRoom"/>
+            <item
+                android:id="@+id/sucursales"
+                android:title="Sucursales"
+                android:icon="@mipmap/icono_sucursales"
+                app:showAsAction="ifRoom"/>
+        </menu>
+    </item>
+</menu>
